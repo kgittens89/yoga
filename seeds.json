@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "english_name": "Mountain Pose",
+        "sanskrit_name": "Tadasana",
+        "image": "",
+        "description": "",
+        "difficulty": "Easy",
+        "catagories": [
+            {
+                "cat_name": "Standing",
+                "cat_description": "",
+                "cat_id": 1
+            }
+        ] 
+    },
+    {
+        "id": 2,
+        "english_name": "Prayer Pose",
+        "sanskrit_name": "Pranamasana",
+        "image": "",
+        "description": "Stand upright on your mat with your both feet closely aligned. Inhale deeply, expanding your chest and relaxing your shoulders.While you inhale, raise your arms from the sides. And as you exhale, join your palms together as if praying.",
+        "catagories": [
+            {
+                "cat_name": "Standing",
+                "cat_description": "",
+                "cat_id": 1
+            }
+        ] 
+    },
+    {
+        "id": 3,
+        "english_name": "Raised Arms Pose",
+        "sanskrit_name": "Hasta Uttanasana",
+        "image": "",
+        "description": "Breathe in and lift your arms up and bend backwards slightly. Your biceps should lie close to your ears. This posture is to loosen up your body by stretching the entire body backwards.",
+        "catagories": [
+            {
+                "cat_name": "Standing",
+                "cat_description": "",
+                "cat_id": 1
+            }
+        ] 
+    },
+    {
+        "id": 4,
+        "english_name": "Hand-to-Foot Pose",
+        "sanskrit_name": "Hasta Padasana",
+        "image": "",
+        "description": "",
+        "catagories": [
+            {
+                "cat_name": "",
+                "cat_description": "",
+                "cat_id": ""
+            }
+        ] 
+    },
+    {
+        "id": 1,
+        "english_name": "",
+        "sanskrit_name": "",
+        "image": "",
+        "description": "",
+        "catagories": [
+            {
+                "cat_name": "",
+                "cat_description": "",
+                "cat_id": ""
+            }
+        ] 
+    },
+    {
+        "id": 1,
+        "english_name": "",
+        "sanskrit_name": "",
+        "image": "",
+        "description": "",
+        "catagories": [
+            {
+                "cat_name": "",
+                "cat_description": "",
+                "cat_id": ""
+            }
+        ] 
+    }
+]
