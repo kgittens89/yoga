@@ -1,19 +1,13 @@
 const mongoose = require('../db/connection');
 
 const SequenceSchema = new mongoose.Schema({
-	id: Number,
-	english_name: String,
-	sanskrit_name: String,
-	image: URL,
-	description: String,
-	difficulty: String,
-	catagories: [
+	name: String,
+	sequence: [
 		{
-			cat_name: String,
-			cat_description: String,
-			cat_id: Number,
+			id: Number,
+			poseTitle: String
 		},
-	],
+	]
 });
 
 const Sequence = mongoose.model('Sequence', SequenceSchema);
