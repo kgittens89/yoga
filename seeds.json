@@ -20,6 +20,7 @@
         "sanskrit_name": "Pranamasana",
         "image": "",
         "description": "Stand upright on your mat with your both feet closely aligned. Inhale deeply, expanding your chest and relaxing your shoulders.While you inhale, raise your arms from the sides. And as you exhale, join your palms together as if praying.",
+        "difficulty": "Easy",
         "catagories": [
             {
                 "cat_name": "Standing",
@@ -34,6 +35,8 @@
         "sanskrit_name": "Hasta Uttanasana",
         "image": "",
         "description": "Breathe in and lift your arms up and bend backwards slightly. Your biceps should lie close to your ears. This posture is to loosen up your body by stretching the entire body backwards.",
+        "difficulty": "Easy",
+
         "catagories": [
             {
                 "cat_name": "Standing",
