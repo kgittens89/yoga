@@ -1,8 +1,8 @@
 const mongoose = require('../db/connection');
 
 const SequenceSchema = new mongoose.Schema({
-	name: String,
-	sequence: [
+	sequenceName: String,
+	sequencePoses: [
 		{
 			id: Number,
 			poseTitle: String
