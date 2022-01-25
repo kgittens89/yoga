@@ -5,7 +5,7 @@ const SequenceSchema = new mongoose.Schema({
 	sequencePoses: [
 		{
 			id: Number,
-			poseTitle: String
+			englishName: String
 		},
 	]
 });
@@ -13,4 +13,3 @@ const SequenceSchema = new mongoose.Schema({
 const Sequence = mongoose.model('Sequence', SequenceSchema);
 
 module.exports = Sequence;
-
