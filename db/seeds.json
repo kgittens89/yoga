@@ -6,10 +6,10 @@
         "image": "",
         "description": "",
         "difficulty": "Easy",
-        "catagories": [
+        "categories": [
             {
                 "catName": "Standing",
-                "catDescription": "",
+                "catDescription": "Standing Description",
                 "catId": 1
             }
         ] 
@@ -21,7 +21,7 @@
         "image": "",
         "description": "Stand upright on your mat with your both feet closely aligned. Inhale deeply, expanding your chest and relaxing your shoulders.While you inhale, raise your arms from the sides. And as you exhale, join your palms together as if praying.",
         "difficulty": "Easy",
-        "catagories": [
+        "categories": [
             {
                 "catName": "Standing",
                 "catDescription": "",
@@ -37,7 +37,7 @@
         "description": "Breathe in and lift your arms up and bend backwards slightly. Your biceps should lie close to your ears. This posture is to loosen up your body by stretching the entire body backwards.",
         "difficulty": "Easy",
 
-        "catagories": [
+        "categories": [
             {
                 "catName": "Standing",
                 "catDescription": "",
@@ -51,7 +51,7 @@
         "sanskritName": "Uttanasana",
         "image": "",
         "description": "",
-        "catagories": [
+        "categories": [
             {
                 "catName": "",
                 "catDescription": "",
@@ -65,7 +65,7 @@
         "sanskritName": "Phalakasana",
         "image": "",
         "description": "",
-        "catagories": [
+        "categories": [
             {
                 "catName": "",
                 "catDescription": "",
@@ -79,7 +79,7 @@
         "sanskritName": "Chatturunga Dandasana",
         "image": "",
         "description": "",
-        "catagories": [
+        "categories": [
             {
                 "catName": "",
                 "catDescription": "",
@@ -93,7 +93,7 @@
         "sanskritName": "Urdvha Mukha Svanasana",
         "image": "",
         "description": "",
-        "catagories": [
+        "categories": [
             {
                 "catName": "",
                 "catDescription": "",
@@ -107,7 +107,7 @@
         "sanskritName": "Adho Mukha Svanasana",
         "image": "",
         "description": "",
-        "catagories": [
+        "categories": [
             {
                 "catName": "",
                 "catDescription": "",
@@ -121,7 +121,7 @@
         "sanskritName": "Ardha Uttanasana",
         "image": "",
         "description": "",
-        "catagories": [
+        "categories": [
             {
                 "catName": "",
                 "catDescription": "",

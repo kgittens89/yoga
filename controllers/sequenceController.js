@@ -13,6 +13,15 @@ router.get('/', async (req, res, next) => {
     }
 });
 
+router.post('/', async (req, res, next) => {
+    try {
+        const newSequence = await Sequence.create(req.body)
+        res.json(newSequence)  
+    } catch (error) {
+        next(error)
+    }
+});
+
 router.put('/:id', async (req, res, next) => {
     try {
         const sequence = await Sequence.findByIdAndUpdate(
@@ -20,10 +29,16 @@ router.put('/:id', async (req, res, next) => {
             req.body,
             { new: true }
         )
-
             res.json(sequence)
+    } catch (error) {
+        next(error)
+    }
+});
 
-
+router.delete('/:id', async (req, res, next) => {
+    try {
+        const deletedSequence = Sequence.findByIdAndDelete(req.params.id);
+        res.json(deletedSequence)
     } catch (error) {
         next(error)
     }
