@@ -3,15 +3,13 @@
 
 ## Project Description
 
-Website that allows people to search a library of yoga poses and create their own sequences. 
-
+The Flow Factory is a yoga application designed for both, new yogis & teachers. Users are able to search a library of yoga poses and create their own sequences.
 
 ## Technologies Used
 
 - React
 - JavaScript
 - CSS
-
 - HTML
 - MongoDB/Mongoose
 - Express
@@ -31,13 +29,18 @@ Website that allows people to search a library of yoga poses and create their ow
 ## Wireframes
 <img width="718" alt="Screen Shot 2022-01-24 at 5 22 24 PM" src="https://user-images.githubusercontent.com/93896422/150875189-90ab0c8f-3534-4a82-8502-b390107f9c20.png">
 
-<img width="712" alt="Screen Shot 2022-01-24 at 5 22 30 PM" src="https://user-images.githubusercontent.com/93896422/150875251-aa5a8410-6b87-49cb-85fc-327d6089afd6.png">
+<img width="713" alt="Screen Shot 2022-01-24 at 6 57 20 PM" src="https://user-images.githubusercontent.com/93896422/150885124-f237c010-ed5f-4473-907d-5225a18b35c0.png">
 
-<img width="694" alt="Screen Shot 2022-01-24 at 5 22 36 PM" src="https://user-images.githubusercontent.com/93896422/150875279-489c1856-cddf-4f6c-8bba-3ff2c722eba7.png">
+
+<img width="787" alt="Screen Shot 2022-01-24 at 6 58 06 PM" src="https://user-images.githubusercontent.com/93896422/150885176-d1ad4a37-d982-4e2a-8f53-c918d479b3d2.png">
+
+
+<img width="731" alt="Screen Shot 2022-01-24 at 6 58 34 PM" src="https://user-images.githubusercontent.com/93896422/150885304-5ed9c853-2a80-4807-b2b7-981c29c46be9.png">
+
 
 <img width="709" alt="Screen Shot 2022-01-24 at 5 22 42 PM" src="https://user-images.githubusercontent.com/93896422/150875288-bc4786be-f43d-4f0e-b9a7-cfdf46f8f999.png">
 
-<img width="756" alt="Screen Shot 2022-01-24 at 5 22 49 PM" src="https://user-images.githubusercontent.com/93896422/150875308-ebefef5a-a70b-462b-a847-43cbb0232546.png">
+
 
 
 
