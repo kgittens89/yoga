@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(cors());
 
-app.set('port', process.env.PORT || 6000);
+app.set('port', process.env.PORT || 3000);
 
 // Redirect
 app.get('/', (req, res) => {
