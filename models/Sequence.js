@@ -13,3 +13,4 @@ const SequenceSchema = new mongoose.Schema({
 const Sequence = mongoose.model('Sequence', SequenceSchema);
 
 module.exports = Sequence;
+
