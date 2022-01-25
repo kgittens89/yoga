@@ -25,7 +25,7 @@ app.use('/sequence', Sequence);
 
 app.listen(app.get('port'), () => {
 	console.log(
-		'Hello world! Flow Factory API listening on port' + app.get('port')
+		'Hello world! Flow Factory API listening on port ' + app.get('port')
 	);
 });
 
