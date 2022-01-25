@@ -1,0 +1,51 @@
+[
+    {
+        "sequenceName": "Sun Salutation A",
+        "sequencePoses": [
+            {
+                "id": 2,
+                "englishName": "Prayer Pose"
+            },
+            {
+                "id": 3,
+                "englishName": "Raised Arms Pose"
+            },
+            {
+                "id": 4,
+                "englishName": "Forward Fold"
+            },
+            {
+                "id": 9,
+                "englishName": "Half Forward Fold"
+            },
+            {
+                "id": 6,
+                "englishName": "Four Limb Staff Pose"
+            },
+            {
+                "id": 7,
+                "englishName": "Upward Facing Dog"
+            },
+            {
+                "id": 8,
+                "englishName": "Downward Facing Dog"
+            },
+            {
+                "id": 9,
+                "englishName": "Half Forward Fold"
+            },
+            {
+                "id": 4,
+                "englishName": "Forward Fold"
+            },
+            {
+                "id": 3,
+                "englishName": "Raised Arms Pose"
+            },
+            {
+                "id": 2,
+                "englishName": "Prayer Pose"
+            }
+        ]
+    }
+]

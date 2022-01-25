@@ -47,8 +47,8 @@
     },
     {
         "id": 4,
-        "englishName": "Hand-to-Foot Pose",
-        "sanskritName": "Hasta Padasana",
+        "englishName": "Forward Fold",
+        "sanskritName": "Uttanasana",
         "image": "",
         "description": "",
         "catagories": [
@@ -60,9 +60,9 @@
         ] 
     },
     {
-        "id": 1,
-        "englishName": "",
-        "sanskritName": "",
+        "id": 5,
+        "englishName": "Plank Pose",
+        "sanskritName": "Phalakasana",
         "image": "",
         "description": "",
         "catagories": [
@@ -74,9 +74,51 @@
         ] 
     },
     {
-        "id": 1,
-        "englishName": "",
-        "sanskritName": "",
+        "id": 6,
+        "englishName": "Four Limb Staff Pose",
+        "sanskritName": "Chatturunga Dandasana",
+        "image": "",
+        "description": "",
+        "catagories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 7,
+        "englishName": "Upward Facing Dog",
+        "sanskritName": "Urdvha Mukha Svanasana",
+        "image": "",
+        "description": "",
+        "catagories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 8,
+        "englishName": "Downward Facing Dog",
+        "sanskritName": "Adho Mukha Svanasana",
+        "image": "",
+        "description": "",
+        "catagories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 9,
+        "englishName": "Half Forward Fold",
+        "sanskritName": "Ardha Uttanasana",
         "image": "",
         "description": "",
         "catagories": [
