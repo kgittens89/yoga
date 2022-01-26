@@ -3,7 +3,7 @@
         "id": 1,
         "englishName": "Mountain Pose",
         "sanskritName": "Tadasana",
-        "image": "",
+        "image": "https://cdn.vectorstock.com/i/1000x1000/38/30/woman-in-tadasana-or-mountain-yoga-pose-vector-28023830.webp",
         "description": "",
         "difficulty": "Easy",
         "categories": [
@@ -18,7 +18,7 @@
         "id": 2,
         "englishName": "Prayer Pose",
         "sanskritName": "Pranamasana",
-        "image": "",
+        "image": "https://cdn.vectorstock.com/i/1000x1000/48/68/meditating-yogi-man-in-pranamasana-hatha-yoga-vector-38214868.webp",
         "description": "Stand upright on your mat with your both feet closely aligned. Inhale deeply, expanding your chest and relaxing your shoulders.While you inhale, raise your arms from the sides. And as you exhale, join your palms together as if praying.",
         "difficulty": "Easy",
         "categories": [
@@ -33,7 +33,7 @@
         "id": 3,
         "englishName": "Raised Arms Pose",
         "sanskritName": "Hasta Uttanasana",
-        "image": "",
+        "image": "https://blog.talkcharge.com/wp-content/uploads/2020/12/02-1.jpg",
         "description": "Breathe in and lift your arms up and bend backwards slightly. Your biceps should lie close to your ears. This posture is to loosen up your body by stretching the entire body backwards.",
         "difficulty": "Easy",
 
@@ -49,7 +49,8 @@
         "id": 4,
         "englishName": "Forward Fold",
         "sanskritName": "Uttanasana",
-        "image": "",
+        "image": "https://thumbs.dreamstime.com/b/uttanasana-color-line-icon-bending-forward-hips-palms-can-be-placed-floor-ultimately-behind-heels-172113367.jpg",
+        "difficulty": "Easy",
         "description": "",
         "categories": [
             {
@@ -63,7 +64,8 @@
         "id": 5,
         "englishName": "Plank Pose",
         "sanskritName": "Phalakasana",
-        "image": "",
+        "image": "https://www.ekhartyoga.com/media/images/articles/content/Plank-pose-Esther-Ekhart-Yoga.jpg",
+        "difficulty": "Medium",
         "description": "",
         "categories": [
             {
@@ -76,8 +78,9 @@
     {
         "id": 6,
         "englishName": "Four Limb Staff Pose",
-        "sanskritName": "Chatturunga Dandasana",
-        "image": "",
+        "sanskritName": "Chaturanga Dandasana",
+        "image": "https://media.istockphoto.com/photos/young-attractive-woman-in-chaturanga-dandasana-pose-white-color-picture-id663991346?k=20&m=663991346&s=612x612&w=0&h=fbuK5whZBUaeQjAgfmkxSTy_mMmVSszdujlyBrDdASM=",
+        "difficulty": "Medium",
         "description": "",
         "categories": [
             {
@@ -91,7 +94,8 @@
         "id": 7,
         "englishName": "Upward Facing Dog",
         "sanskritName": "Urdvha Mukha Svanasana",
-        "image": "",
+        "image": "https://www.yogauonline.com/sites/default/files/styles/wellness_blog_level3_main/public/article_images/fotolia_52729356_subscription_xl_1500x1000.jpg?itok=c-8NcnOR",
+        "difficulty": "Easy",
         "description": "",
         "categories": [
             {
@@ -105,7 +109,8 @@
         "id": 8,
         "englishName": "Downward Facing Dog",
         "sanskritName": "Adho Mukha Svanasana",
-        "image": "",
+        "image": "https://yoursightmatters.com/wp-content/uploads/2018/01/GlaucomaFriendlyExercises-532343318-768x512.jpg",
+        "difficulty": "Medium",
         "description": "",
         "categories": [
             {
@@ -119,7 +124,8 @@
         "id": 9,
         "englishName": "Half Forward Fold",
         "sanskritName": "Ardha Uttanasana",
-        "image": "",
+        "image": "https://cdn.lessons.com/assets/images/courses/yoga/standing-half-forward-bend-yoga-pose.jpg",
+        "difficulty": "Easy",
         "description": "",
         "categories": [
             {
@@ -128,5 +134,1161 @@
                 "catId": ""
             }
         ] 
-    }
+    },
+    {
+        "id": 10,
+        "englishName": "Boat",
+        "sanskritName": "Navasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Urdhva-Mukha-Paschimottanasana-Boat-with-Thighs-to-Chest-yoga-pose-61677-pixahive-768x512-1.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 11,
+        "englishName": "Twisted Floating Splits",
+        "sanskritName": "Sage Koundinya I",
+        "image": "https://www.yogajournal.com/wp-content/uploads/2014/10/nov-14-yogapedia-eka-pada-koundinyasana-1.jpg?width=730",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 12,
+        "englishName": "Bow",
+        "sanskritName": "Dhanurasana",
+        "image": "https://beyogi.com/wp-content/uploads/2015/04/Bow-Pose-Dhanurasana.png",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 13,
+        "englishName": "Bridge Pose",
+        "sanskritName": "Setu Bandha Sarvangasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Facebook-Event-Cover-1920x1080-px-4-1536x864.jpeg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 14,
+        "englishName": "Butterfly Pose",
+        "sanskritName": "Baddha Konasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/01/Facebook-Post-940x788-px-4.jpeg",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 15,
+        "englishName": "Camel Pose",
+        "sanskritName": "Ustrasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Camel-Pose-Ustrasana-163101-pixahive-1024x683-1.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 16,
+        "englishName": "Cat Pose",
+        "sanskritName": "Marjaryasana",
+        "image": "https://i1.wp.com/www.yogabasics.com/yogabasics2017/wp-content/uploads/2013/11/cat_9646.jpg?fit=700%2C500&ssl=1",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 17,
+        "englishName": "Cow",
+        "sanskritName": "Bitilasana",
+        "image": "https://www.yogapedia.com/images/uploads/istock-667293822.jpg?height=580&width=940&mode=crop",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 18,
+        "englishName": "Chair Pose",
+        "sanskritName": "Utkatasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/articles/Screen_Shot_2019-07-30_at_3.49.24_PM_1024x1024.png?v=1564527525",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 19,
+        "englishName": "Child's Pose",
+        "sanskritName": "Balasana",
+        "image": "https://yogapractice.com/wp-content/uploads/2019/06/All-about-Childs-Pose.jpg",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 20,
+        "englishName": "Corpse Pose",
+        "sanskritName": "Savasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/articles/Savasana_1024x1024.jpg?v=1564415363",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 21,
+        "englishName": "High Lunge",
+        "sanskritName": "Alanasana",
+        "image": "https://www.yogajournal.com/wp-content/uploads/2008/04/3hp_288_07_bjk2.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 22,
+        "englishName": "Crow Pose",
+        "sanskritName": "Bakasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/01/Facebook-Post-940x788-px-5.jpeg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 23,
+        "englishName": "Dolphin Pose",
+        "sanskritName": "Ardha Pincha Mayurasana",
+        "image": "https://www.yogajournal.com/wp-content/uploads/2017/10/dolphin-pose-1024x576.jpg?width=1200",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 24,
+        "englishName": "Eagle Pose",
+        "sanskritName": "Garudasana",
+        "image": "https://www.gaia.com/wp-content/uploads/Meta-garudasana-eagle-pose-1024x576-768x432.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 25,
+        "englishName": "Extended Hand-to-Toe Pose",
+        "sanskritName": "Utthita Hasta Padangusthasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/A-yoga-boy-163089-pixahive-1024x683-1.jpg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 26,
+        "englishName": "Extended Side Angle",
+        "sanskritName": "Utthita Parsvakonasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Utthita-Parsvakonasana-Extended-Side-Angle-yoga-pose-61188-pixahive-1024x683-1.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 27,
+        "englishName": "Forearm Stand",
+        "sanskritName": "Pincha Mayurasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/articles/Screen_Shot_2019-07-28_at_4.50.29_PM_1024x1024.png?v=1564358250",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 28,
+        "englishName": "Half-Moon Pose",
+        "sanskritName": "Ardha Chandrasana",
+        "image": "https://featheredpipe.com/wp-content/uploads/2020/03/Ardha-Chandrasana_840px-768x512.jpg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 29,
+        "englishName": "Handstand",
+        "sanskritName": "Adho Mukha Vrksasana",
+        "image": "https://www.yogateket.com/image/original/handsand.jpg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 30,
+        "englishName": "Low Lunge",
+        "sanskritName": "Anjaneyasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Virabhadrasana-I-Warrior-Yoga-Pose-62519-pixahive-1024x683-1.jpg",
+        "difficulty": "",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 31,
+        "englishName": "Pigeon Pose",
+        "sanskritName": "Supta Kapotasana",
+        "image": "https://www.verywellfit.com/thmb/s0t8c-ESrynr3D4bpKDI6ZTNLtM=/1333x1000/smart/filters:no_upscale()/Verywell-07-3567179-Pigeon02-133-598b72f5b501e80012e733ab.gif",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 32,
+        "englishName": "King Pigeon",
+        "sanskritName": "Eka Pada Rajakapotasana",
+        "image": "https://cdn.lessons.com/assets/images/courses/yoga/one-legged-king-pigeon-yoga-pose.jpg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 33,
+        "englishName": "Plow Pose",
+        "sanskritName": "Halasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/01/YouTube-Channel-Art-2560x1440-px-18-1536x864.jpeg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 34,
+        "englishName": "Pyramid Pose",
+        "sanskritName": "Parsvottanasana",
+        "image": "https://media.istockphoto.com/photos/yoga-intense-side-stretch-pose-parsvottanasana-picture-id543349146?k=20&m=543349146&s=170667a&w=0&h=5URSxbLEBsgkBGIhMquR0sRzx9rZ8y2YUt1sdopMevM=",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 35,
+        "englishName": "Reverse Warrior",
+        "sanskritName": "Parsva Virabhadrasana",
+        "image": "https://www.gaia.com/wp-content/uploads/Meata-Viparita-Virabhadrasana-Reverse-Warrior-Pose-1024X576.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 36,
+        "englishName": "Seated Forward Bend",
+        "sanskritName": "Paschimottanasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Paschimottanasana-61291-pixahive-1024x683-1.jpg",
+        "difficulty": "",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 37,
+        "englishName": "Lotus",
+        "sanskritName": "Padmasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Padmasana-Yoga-Pose-61227-pixahive-1024x683-1.jpg",
+        "difficulty": "",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 38,
+        "englishName": "Half Lord of the Fishes",
+        "sanskritName": "Ardha Matsyendrasana",
+        "image": "https://www.ekhartyoga.com/media/image/articles/Ardha-Matsyendrasana-Half-lord-of-the-fishes-yoga-pose.jpg",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 39,
+        "englishName": "Shoulder Stand",
+        "sanskritName": "Salamba Sarvangasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Shoulder-Stand-Sarvangasana-291203-pixahive-681x1024-1.jpg",
+        "difficulty": "",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 40,
+        "englishName": "Side Plank",
+        "sanskritName": "Utthita Vasisthasana",
+        "image": "https://www.fitsri.com/wp-content/uploads/2020/10/Vasisthasana-side-plank-pose.jpg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 41,
+        "englishName": "Sphinx",
+        "sanskritName": "Salamba Bhujangasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/articles/Sphinx_1024x1024.jpg?v=1564414569",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 42,
+        "englishName": "Splits or Monkey Pose",
+        "sanskritName": "Hanumanasana",
+        "image": "https://www.verywellfit.com/thmb/j0EEiPiw-ISLVplZcrJZg_8DFDc=/800x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/21-3567083-MonkeyPose-002-c9274104880c4566a54e6e05ba9ea2af.jpg",
+        "difficulty": "",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 43,
+        "englishName": "Garland Pose",
+        "sanskritName": "Malasana",
+        "image": "https://www.gaia.com/wp-content/uploads/Meta-GAIA_CAVEMANCOLLECTIVE-190-squat-pose-1024x576-768x432.jpg",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 44,
+        "englishName": "Peacock Pose",
+        "sanskritName": "Mayurasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/articles/Screen_Shot_2019-07-26_at_11.35.38_AM_1024x1024.png?v=1564166662",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 45,
+        "englishName": "Tree",
+        "sanskritName": "Vrksasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Yoga-practice-in-park-25281-pixahive-683x1024-1.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 46,
+        "englishName": "Triangle",
+        "sanskritName": "Trikonasana",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Trikonasana_Yoga-Asana_Nina-Mel.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 47,
+        "englishName": "Warrior One",
+        "sanskritName": "Virabhadrasana One",
+        "image": "https://dsgmedia.blob.core.windows.net/pub/2018/08/HowToDoWarrior1Pose.jpg",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 48,
+        "englishName": "Warrior Two",
+        "sanskritName": "Virabhadrasana Two",
+        "image": "https://www.yogajournal.com/wp-content/uploads/2007/08/warrrior-ii-primary.jpg",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 49,
+        "englishName": "Warrior Three",
+        "sanskritName": "Virabhadrasana Three",
+        "image": "https://www.yogauonline.com/sites/default/files/styles/wellness_blog_level3_main/public/article_images/warrior_3.png?itok=g-cO-X_6",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 50,
+        "englishName": "Wheel Pose",
+        "sanskritName": "Urdhva Dhanurasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/articles/Wheel_Pose_1024x1024.jpg?v=1564520050",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 51,
+        "englishName": "Wild Thing",
+        "sanskritName": "Camatkarasana",
+        "image": "https://vinyasayogaacademy.com/blog/wp-content/uploads/2020/03/camatkarasana-scaled.jpg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 52,
+        "englishName": "Headstand",
+        "sanskritName": "Sirsasana",
+        "image": "https://images.indianexpress.com/2020/04/headstand-1.jpg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 53,
+        "englishName": "Dancer Pose",
+        "sanskritName": "Natarajasana",
+        "image": "https://www.verywellfit.com/thmb/DiWK05qMu_qBsx_8o5eODlxfsNo=/2500x1667/filters:fill(FFDB5D,1)/Verywell-14-3566690-KingDancer02-827-5c4b724146e0fb000167c61c.jpg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 54,
+        "englishName": "Thunderbolt Pose",
+        "sanskritName": "Vajrasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/A-Yoga-girl-in-park-63630-pixahive-1024x683-1.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 55,
+        "englishName": "Destroyer of the Universe Pose",
+        "sanskritName": "Kala Bhairavasana",
+        "image": "https://pbs.twimg.com/media/DR8Rh2VX4AEpKDg.jpg",
+        "difficulty": "Extreme",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 56,
+        "englishName": "Cow Face Pose",
+        "sanskritName": "Gomukhasana",
+        "image": "https://www.verywellfit.com/thmb/7RQtOg4OljvKwD1qVBog--nLZWQ=/1500x1000/filters:fill(FFDB5D,1)/Verywell-10-3567220-CowFace-783-598b736c68e1a2001182604e.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 57,
+        "englishName": "Locust Pose",
+        "sanskritName": "Salabhasana",
+        "image": "https://www.gaia.com/wp-content/uploads/Locust_NicholeGolden-768x432.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 58,
+        "englishName": "Wide-angle Seated Forward Bend",
+        "sanskritName": "Upavista Konasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/articles/Screen_Shot_2019-07-30_at_1.37.03_PM_1024x1024.png?v=1564519421",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 59,
+        "englishName": "Embryo in the Womb Pose",
+        "sanskritName": "Garbha Pindasana",
+        "image": "http://yoga-iq.com/Images/GetImg1000_743/92.jpg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 60,
+        "englishName": "Staff Pose",
+        "sanskritName": "Dandasana",
+        "image": "https://www.yogauonline.com/sites/default/files/styles/wellness_blog_level3_main/public/iStock_000013145332XSmall.jpg?itok=HTJVxt1i",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 61,
+        "englishName": "Revolved Abdomen Pose",
+        "sanskritName": "Jathara Parivartanasana",
+        "image": "http://www.yogabasics.com/yogabasics2017/wp-content/uploads/2013/11/belly-twist-version-b1.jpg",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 62,
+        "englishName": "Heron Pose",
+        "sanskritName": "Krauncasana",
+        "image": "https://www.yogaclassplan.com/wp-content/uploads/2018/02/Heron-pose_Krounchasana-edited.jpg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 63,
+        "englishName": "Head-to-Knee Forward Bend",
+        "sanskritName": "Janu Sirsasana",
+        "image": "https://www.verywellfit.com/thmb/qbH9KeCNYZXCPc4w57gWjrrJqtA=/3000x2000/filters:fill(FFDB5D,1)/oneleggedheadtokneestretch-5c536d70c9e77c0001329196.jpg",
+        "difficulty": "Easy",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 64,
+        "englishName": "Fish Pose",
+        "sanskritName": "Matsyasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Facebook-Event-Cover-1920x1080-px-1-1536x864.jpeg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 65,
+        "englishName": "Eight Angle Pose",
+        "sanskritName": "Astavakrasana",
+        "image": "https://47h07141n4wr3s4gyj49ii1d-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/AdobeStock_110967449-1200x800.jpeg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 66,
+        "englishName": "Tortoise Pose",
+        "sanskritName": "Kurmasana",
+        "image": "https://www.yogajournal.com/wp-content/uploads/2015/10/yogapedia_278_12_fnl-kurmasana.jpg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 67,
+        "englishName": "Scorpion Pose",
+        "sanskritName": "Vrischikasana",
+        "image": "https://static2.refinery29.com/bin/entry/1c0/x,80/1126362/kwpm2xevtljrs0ikjdnykjdcaeycygqiod2plc-qsm.jpg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 68,
+        "englishName": "Standing Split",
+        "sanskritName": "Utthita Trivikramasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Standing-Split-Trivikramasana-166430-pixahive-683x1024-1.jpg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 69,
+        "englishName": "Frog Pose",
+        "sanskritName": "Bhekasana",
+        "image": "https://www.yogajournal.com/wp-content/uploads/2007/08/frog-pose-bhekasana.jpg?crop=535:301&width=1070&enable=upscale",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 70,
+        "englishName": "Reclined Big Toe Pose",
+        "sanskritName": "Supta Padangusthasana",
+        "image": "https://www.rishikulyogshala.org/wp-content/uploads/2018/07/Supta-Padangusthasana-1.png",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 71,
+        "englishName": "Sleeping Yogi Pose",
+        "sanskritName": "Yoganidrasana",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mr-yoga-yogic-sleep-pose.jpg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 72,
+        "englishName": "Firefly Pose",
+        "sanskritName": "Tittibhasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Facebook-Event-Cover-1920x1080-px-7-1536x864.jpeg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 73,
+        "englishName": "Raised Lotus Pose",
+        "sanskritName": "Utthita Padmasana",
+        "image": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/tulasana602379d45d505.jpg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 74,
+        "englishName": "Hero Pose",
+        "sanskritName": "Virasana",
+        "image": "https://www.yogaclassplan.com/wp-content/uploads/2015/11/Heros-Pose.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 75,
+        "englishName": "Archer's Pose",
+        "sanskritName": "Akarna Dhanurasana",
+        "image": "https://www.sarvyoga.com/wp-content/uploads/2017/08/Akarna-Dhanurasana-Archers-Yoga-Pose-steps-benefits.jpg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 76,
+        "englishName": "Rooster Pose",
+        "sanskritName": "Kukkutasana",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Yoga_shaktipat_kukkutasana_by_alexey_baykov.jpg",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 77,
+        "englishName": "Wide-Legged Standing Forward Bend",
+        "sanskritName": "Prasarita Padottanasana",
+        "image": "https://www.ekhartyoga.com/media/images/articles/content/Prasarita-Padottanasana-A-Wide-legged-forward-fold.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 78,
+        "englishName": "Floating Splits",
+        "sanskritName": "Sage Koundinyasana II",
+        "image": "https://images.ctfassets.net/p0sybd6jir6r/6yhvWhSleNpbgfrRozGuCC/93c9d0ce077565b53bb1597db279f938/Eka_Pada_Koundinyasana_II_5-afcd81bd0dee921cd31ff429ac33d811.JPG",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 79,
+        "englishName": "Extended Puppy Pose",
+        "sanskritName": "Uttana Shishosana",
+        "image": "https://www.yogaclassplan.com/wp-content/uploads/2013/09/extended-puppy.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 80,
+        "englishName": "Reclined Splits",
+        "sanskritName": "Supta Trivikramasana",
+        "image": "https://www.ashtangayoga.info/typo3temp/assets/images/csm_60__Supta_Trivikrmasana_5d0da96182_50x50_5fea484ee5.jpg",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 81,
+        "englishName": "Standing Splits",
+        "sanskritName": "Urdhva Prasarita Eka Padasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/products/st9727016773_standing_splits_large.jpg?v=1546755141",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 82,
+        "englishName": "Upward Plank Pose",
+        "sanskritName": "Purvottanasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/articles/Upward_Plank_1024x1024.jpg?v=1564413394",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 83,
+        "englishName": "Noose Pose",
+        "sanskritName": "Pasasana",
+        "image": "https://www.yogajournal.com/wp-content/uploads/2007/08/noose-pose-pasasana.jpg",
+        "difficulty": "Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 84,
+        "englishName": "Side Crow Pose",
+        "sanskritName": "Parsva Bakasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/articles/Side_Crow_1024x1024.jpg?v=1564353111",
+        "difficulty": "Very Hard",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 85,
+        "englishName": "Revolved Triangle Pose",
+        "sanskritName": "Parivrtta Trikonasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/articles/Revolved_Triangle_Pose_1024x1024.jpg?v=1564245883",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+    {
+        "id": 86,
+        "englishName": "Revolved Crescent Lunge Pose",
+        "sanskritName": "Parivrtta Anjaeyasana",
+        "image": "https://cdn.shopify.com/s/files/1/0064/9962/products/st9730204782_e0d1d7ca97_z_large.jpg?v=1546751965",
+        "difficulty": "Medium",
+        "description": "",
+        "categories": [
+            {
+                "catName": "",
+                "catDescription": "",
+                "catId": ""
+            }
+        ] 
+    },
+
 ]
