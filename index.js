@@ -18,10 +18,10 @@ app.get('/', (req, res) => {
 
 // Controllers
 const Asana = require('./controllers/asanaController');
-app.use('/asana', Asana);
+app.use('/flowfactory/asana', Asana);
 
 const Sequence = require('./controllers/sequenceController');
-app.use('/sequence', Sequence);
+app.use('/flowfactory/sequence', Sequence);
 
 app.listen(app.get('port'), () => {
 	console.log(
