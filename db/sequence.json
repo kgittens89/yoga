@@ -1,51 +1,62 @@
 [
-    {
-        "sequenceName": "Sun Salutation A",
-        "sequencePoses": [
-            {
-                "id": 2,
-                "englishName": "Prayer Pose"
-            },
-            {
-                "id": 3,
-                "englishName": "Raised Arms Pose"
-            },
-            {
-                "id": 4,
-                "englishName": "Forward Fold"
-            },
-            {
-                "id": 9,
-                "englishName": "Half Forward Fold"
-            },
-            {
-                "id": 6,
-                "englishName": "Four Limb Staff Pose"
-            },
-            {
-                "id": 7,
-                "englishName": "Upward Facing Dog"
-            },
-            {
-                "id": 8,
-                "englishName": "Downward Facing Dog"
-            },
-            {
-                "id": 9,
-                "englishName": "Half Forward Fold"
-            },
-            {
-                "id": 4,
-                "englishName": "Forward Fold"
-            },
-            {
-                "id": 3,
-                "englishName": "Raised Arms Pose"
-            },
-            {
-                "id": 2,
-                "englishName": "Prayer Pose"
-            }
-        ]
-    }
+	{
+		"sequenceName": "Sun Salutation A",
+		"sequencePoses": [
+			{
+				"id": 2,
+				"englishName": "Prayer Pose",
+				"image": "https://cdn.vectorstock.com/i/1000x1000/48/68/meditating-yogi-man-in-pranamasana-hatha-yoga-vector-38214868.webp"
+			},
+			{
+				"id": 3,
+				"englishName": "Raised Arms Pose",
+				"image": "https://blog.talkcharge.com/wp-content/uploads/2020/12/02-1.jpg"
+			},
+			{
+				"id": 4,
+				"englishName": "Forward Fold",
+				"image": "https://thumbs.dreamstime.com/b/uttanasana-color-line-icon-bending-forward-hips-palms-can-be-placed-floor-ultimately-behind-heels-172113367.jpg"
+			},
+			{
+				"id": 9,
+				"englishName": "Half Forward Fold",
+				"image": "https://cdn.lessons.com/assets/images/courses/yoga/standing-half-forward-bend-yoga-pose.jpg"
+			},
+			{
+				"id": 6,
+				"englishName": "Four Limb Staff Pose",
+				"image": "https://media.istockphoto.com/photos/young-attractive-woman-in-chaturanga-dandasana-pose-white-color-picture-id663991346?k=20&m=663991346&s=612x612&w=0&h=fbuK5whZBUaeQjAgfmkxSTy_mMmVSszdujlyBrDdASM="
+			},
+			{
+				"id": 7,
+				"englishName": "Upward Facing Dog",
+				"image": "https://www.yogauonline.com/sites/default/files/styles/wellness_blog_level3_main/public/article_images/fotolia_52729356_subscription_xl_1500x1000.jpg?itok=c-8NcnOR"
+			},
+			{
+				"id": 8,
+				"englishName": "Downward Facing Dog",
+				"image": "https://yoursightmatters.com/wp-content/uploads/2018/01/GlaucomaFriendlyExercises-532343318-768x512.jpg"
+			},
+			{
+				"id": 9,
+				"englishName": "Half Forward Fold",
+				"image": "https://cdn.lessons.com/assets/images/courses/yoga/standing-half-forward-bend-yoga-pose.jpg"
+			},
+			{
+				"id": 4,
+				"englishName": "Forward Fold",
+				"image": "https://thumbs.dreamstime.com/b/uttanasana-color-line-icon-bending-forward-hips-palms-can-be-placed-floor-ultimately-behind-heels-172113367.jpg"
+			},
+			{
+				"id": 3,
+				"englishName": "Raised Arms Pose",
+				"description": "Breathe in and lift your arms up and bend backwards slightly. Your biceps should lie close to your ears. This posture is to loosen up your body by stretching the entire body backwards."
+			},
+			{
+				"id": 2,
+				"englishName": "Prayer Pose",
+				"image": "https://cdn.vectorstock.com/i/1000x1000/48/68/meditating-yogi-man-in-pranamasana-hatha-yoga-vector-38214868.webp"
+			}
+		]
+	}
 ]

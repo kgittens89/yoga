@@ -7,6 +7,7 @@ const SequenceSchema = new mongoose.Schema({
 		{
 			id: Number,
 			englishName: String,
+			image: String,
 		},
 	],
 });
