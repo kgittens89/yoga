@@ -13,6 +13,15 @@ router.get('/', async (req, res, next) => {
     }
 });
 
+router.get('/sequenceDetails/:id', async (req, res, next) => {
+    try {
+        const sequence = await Sequence.findById(req.params.id)
+        res.json(sequence)
+    } catch (error) {
+        next(error)
+    }
+});
+
 router.post('/', async (req, res, next) => {
     try {
         const newSequence = await Sequence.create(req.body)
@@ -25,11 +34,10 @@ router.post('/', async (req, res, next) => {
 router.put('/:id', async (req, res, next) => {
     try {
         const sequence = await Sequence.findByIdAndUpdate(
-             req.params.id ,
+            req.params.id ,
             req.body,
             { new: true }
         )
-        console.log(sequence)
             res.json(sequence)
     } catch (error) {
         next(error)
@@ -48,19 +56,11 @@ router.delete('/:id', async (req, res, next) => {
 
 router.put('/pose/:sequenceId/:poseId', async (req, res, next) => {
 	try {
-        // const deletedPose = await Sequence.findByIdAndDelete(req.params.id);
-        // console.log(req.params.id)
-        // console.log(deletedPose)
-        // res.json(deletedPose)
         const findSequence = await Sequence.findById(req.params.sequenceId)
-        // console.log(findSequence)
         const newSequencePoses = findSequence.sequencePoses.filter((pose) => {
-            // console.log(pose._id.toString())
             return pose._id.toString() !== req.params.poseId
         })
         findSequence.sequencePoses = [...newSequencePoses]
-        console.log(findSequence)
-        // console.log(newSequencePoses)
         const newFindSequence = await Sequence.findByIdAndUpdate(req.params.sequenceId, findSequence)
         res.json(findSequence)
 
