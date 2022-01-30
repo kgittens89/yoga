@@ -5,57 +5,79 @@
 			{
 				"id": 2,
 				"englishName": "Prayer Pose",
-				"image": "https://cdn.vectorstock.com/i/1000x1000/48/68/meditating-yogi-man-in-pranamasana-hatha-yoga-vector-38214868.webp"
+				"sanskritName": "Pranamasana",
+				"image": "https://live.staticflickr.com/5125/5361761189_f1c7a4a19d_c.jpg",
+				"description": "Stand upright on your mat with your both feet closely aligned. Inhale deeply, expanding your chest and relaxing your shoulders. While you inhale, raise your arms from the sides. And as you exhale, join your palms together as if praying."
 			},
 			{
 				"id": 3,
 				"englishName": "Raised Arms Pose",
-				"image": "https://blog.talkcharge.com/wp-content/uploads/2020/12/02-1.jpg"
+				"sanskritName": "Hasta Uttanasana",
+				"image": "http://www.yogadaycelebration.com/articles/assets/images/raised-arms-pose.jpg",
+				"description": "Breathe in and lift your arms up and bend backwards slightly. Your biceps should lie close to your ears. This posture is to loosen up your body by stretching the entire body backwards."
 			},
 			{
 				"id": 4,
 				"englishName": "Forward Fold",
-				"image": "https://thumbs.dreamstime.com/b/uttanasana-color-line-icon-bending-forward-hips-palms-can-be-placed-floor-ultimately-behind-heels-172113367.jpg"
+				"sanskritName": "Uttanasana",
+				"image": "https://www.yogajournal.com/wp-content/uploads/2020/11/poses-317-primary-04284_bjk.jpg",
+				"description": "Upward forward fold is a basic yoga posture that aligns and lengthens the spine. This posture is often included in the Sun Salutation vinyasa following forward fold, or uttanasana. From mountain pose, fold from the waist with the arms reaching toward the ground and then raise up until the back is parallel to the ground. Arch the back slightly and turn the gaze toward the ceiling. The fingertips should touch the ground, but if this is not possible, the hands can rest on the shins or knees."
 			},
 			{
 				"id": 9,
 				"englishName": "Half Forward Fold",
-				"image": "https://cdn.lessons.com/assets/images/courses/yoga/standing-half-forward-bend-yoga-pose.jpg"
+				"sanskritName": "Ardha Uttanasana",
+				"image": "https://cdn.lessons.com/assets/images/courses/yoga/standing-half-forward-bend-yoga-pose.jpg",
+				"description": "Standing half forward bend is a yoga inversion that strengthens and stretches the hamstrings, and massages the abdominal muscles. This is a popular posture in vinyasa styles of yoga and it is included in Sun Salutation (Surya Namaskara) A and B. In this pose, the body folds forward at the hips with the spine straight. The chest is slightly lifted, creating a gentle arch in the spine as the gaze looks forward."
 			},
 			{
 				"id": 6,
 				"englishName": "Four Limb Staff Pose",
-				"image": "https://media.istockphoto.com/photos/young-attractive-woman-in-chaturanga-dandasana-pose-white-color-picture-id663991346?k=20&m=663991346&s=612x612&w=0&h=fbuK5whZBUaeQjAgfmkxSTy_mMmVSszdujlyBrDdASM="
+				"sanskritName": "Chaturanga Dandasana",
+				"image": "https://media.istockphoto.com/photos/young-attractive-woman-in-chaturanga-dandasana-pose-white-color-picture-id663991346?k=20&m=663991346&s=612x612&w=0&h=fbuK5whZBUaeQjAgfmkxSTy_mMmVSszdujlyBrDdASM=",
+				"description": "One of the most well-known Ashtanga yoga poses. To enter this asana, the practitioner assumes kumbhakasana (plank pose). The body lowers until the elbows are in line with the shoulders. It can be modified by lowering the knees when necessary."
 			},
 			{
 				"id": 7,
 				"englishName": "Upward Facing Dog",
-				"image": "https://www.yogauonline.com/sites/default/files/styles/wellness_blog_level3_main/public/article_images/fotolia_52729356_subscription_xl_1500x1000.jpg?itok=c-8NcnOR"
+				"sanskritName": "Urdvha Mukha Svanasana",
+				"image": "https://www.yogauonline.com/sites/default/files/styles/wellness_blog_level3_main/public/article_images/fotolia_52729356_subscription_xl_1500x1000.jpg?itok=c-8NcnOR",
+				"description": "Upward-facing dog pose is a back-bending yoga posture that strengthens the arms, shoulders and wrists, as well as increases flexibility in the back and neck. In this asana, the body lies belly down with the arms pressing into the ground and lifting the body with an arch in the back. This is an important pose in yoga for its ability to align the spine and stimulate the nervous system."
 			},
 			{
 				"id": 8,
 				"englishName": "Downward Facing Dog",
-				"image": "https://yoursightmatters.com/wp-content/uploads/2018/01/GlaucomaFriendlyExercises-532343318-768x512.jpg"
+				"sanskritName": "Adho Mukha Svanasana",
+				"image": "https://yoursightmatters.com/wp-content/uploads/2018/01/GlaucomaFriendlyExercises-532343318-768x512.jpg",
+				"description": "Downward-facing dog pose is a resting inversion pose that builds upper body strength and increases flexibility. In this pose, the body forms an inverted “V” with the feet and hands pressing into the ground and the hips pushing to the sky. Beginners who lack the flexibility to perform the full pose may use yoga blocks or a folding chair to support their hands."
 			},
 			{
 				"id": 9,
 				"englishName": "Half Forward Fold",
-				"image": "https://cdn.lessons.com/assets/images/courses/yoga/standing-half-forward-bend-yoga-pose.jpg"
+				"sanskritName": "Ardha Uttanasana",
+				"image": "https://cdn.lessons.com/assets/images/courses/yoga/standing-half-forward-bend-yoga-pose.jpg",
+				"description": "Standing half forward bend is a yoga inversion that strengthens and stretches the hamstrings, and massages the abdominal muscles. This is a popular posture in vinyasa styles of yoga and it is included in Sun Salutation (Surya Namaskara) A and B. In this pose, the body folds forward at the hips with the spine straight. The chest is slightly lifted, creating a gentle arch in the spine as the gaze looks forward."
 			},
 			{
 				"id": 4,
 				"englishName": "Forward Fold",
-				"image": "https://thumbs.dreamstime.com/b/uttanasana-color-line-icon-bending-forward-hips-palms-can-be-placed-floor-ultimately-behind-heels-172113367.jpg"
+				"sanskritName": "Uttanasana",
+				"image": "https://www.yogajournal.com/wp-content/uploads/2020/11/poses-317-primary-04284_bjk.jpg",
+				"description": "Upward forward fold is a basic yoga posture that aligns and lengthens the spine. This posture is often included in the Sun Salutation vinyasa following forward fold, or uttanasana. From mountain pose, fold from the waist with the arms reaching toward the ground and then raise up until the back is parallel to the ground. Arch the back slightly and turn the gaze toward the ceiling. The fingertips should touch the ground, but if this is not possible, the hands can rest on the shins or knees."
 			},
 			{
 				"id": 3,
 				"englishName": "Raised Arms Pose",
-				"image": "https://blog.talkcharge.com/wp-content/uploads/2020/12/02-1.jpg"
+				"sanskritName": "Hasta Uttanasana",
+				"image": "http://www.yogadaycelebration.com/articles/assets/images/raised-arms-pose.jpg",
+				"description": "Breathe in and lift your arms up and bend backwards slightly. Your biceps should lie close to your ears. This posture is to loosen up your body by stretching the entire body backwards."
 			},
 			{
 				"id": 2,
 				"englishName": "Prayer Pose",
-				"image": "https://cdn.vectorstock.com/i/1000x1000/48/68/meditating-yogi-man-in-pranamasana-hatha-yoga-vector-38214868.webp"
+				"sanskritName": "Pranamasana",
+				"image": "https://live.staticflickr.com/5125/5361761189_f1c7a4a19d_c.jpg",
+				"description": "Stand upright on your mat with your both feet closely aligned. Inhale deeply, expanding your chest and relaxing your shoulders. While you inhale, raise your arms from the sides. And as you exhale, join your palms together as if praying."
 			}
 		]
 	}
