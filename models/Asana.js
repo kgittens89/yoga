@@ -11,7 +11,6 @@ const AsanaSchema = new mongoose.Schema({
 		{
 			catName: String,
 			catDescription: String,
-			catId: Number,
 		},
 	],
 });
