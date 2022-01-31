@@ -39,6 +39,10 @@
             {
                 "catName": "Standing",
                 "catDescription": "Standing poses build strength and stability. The awareness is on physical and mental balance. To stand erect, the feet must be firmly planted on the ground, with the spine stretching upward and the head lifted. These foundation poses provide entry into standing on one leg."
+            },
+            {
+                "catName": "Backbend Yoga Poses",
+                "catDescription": "Our spines are an incredible combination of strength and flexibility. Strong bones and large muscles give us structure and protect sensitive nerves, while flexible ligaments and tendons allow the spine to move in all different planes. With regular backbends we can help to protect this wonderful balance by increasing mobility while strengthening the supporting muscles around the skeleton."
             }
         ] 
     },
@@ -71,6 +75,10 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -85,6 +93,10 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -111,12 +123,12 @@
         "description": "Downward-facing dog pose is a resting inversion pose that builds upper body strength and increases flexibility. In this pose, the body forms an inverted “V” with the feet and hands pressing into the ground and the hips pushing to the sky. Beginners who lack the flexibility to perform the full pose may use yoga blocks or a folding chair to support their hands.",
         "categories": [
             {
-                "catName": "Standing Yoga Poses",
-                "catDescription": "Standing poses build strength and stability. The awareness is on physical and mental balance. To stand erect, the feet must be firmly planted on the ground, with the spine stretching upward and the head lifted. These foundation poses provide entry into standing on one leg."
-            },
-                        {
                 "catName": "Forward Bend Yoga Poses",
                 "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
+            },
+            {
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             }
         ] 
     },
@@ -132,7 +144,7 @@
                 "catName": "Standing Yoga Poses",
                 "catDescription": "Standing poses build strength and stability. The awareness is on physical and mental balance. To stand erect, the feet must be firmly planted on the ground, with the spine stretching upward and the head lifted. These foundation poses provide entry into standing on one leg."
             },
-                       {
+            {
                 "catName": "Forward Bend Yoga Poses",
                 "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
             }
@@ -149,6 +161,10 @@
             {
                 "catName": "Seated Yoga Poses",
                 "catDescription": "Seated positions calm the mind and encourage concentration. These are the best postures for practicing breathing techniques, meditation and stillness. When combined with twists or stretches, these poses release muscular knots, improving the flow of energy in the body."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -163,6 +179,14 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Twist Yoga Poses",
+                "catDescription": "Twists rotate the spine and stretch the muscles of the back. This helps to restore and retain the spine’s natural range of motion. If we don’t employ our natural range of motion we run the risk of our joints hardening and fusing. The surrounding supportive soft tissue can also become short and dysfunctional. By extending the muscles to their full length regularly with twists once or twice a day we can help to prevent this."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -192,9 +216,9 @@
                 "catName": "Backbend Yoga Poses",
                 "catDescription": "Our spines are an incredible combination of strength and flexibility. Strong bones and large muscles give us structure and protect sensitive nerves, while flexible ligaments and tendons allow the spine to move in all different planes. With regular backbends we can help to protect this wonderful balance by increasing mobility while strengthening the supporting muscles around the skeleton."
             },
-               {
-                "catName": "Reclining Yoga Poses",
-                "catDescription": "Reclining poses provide safe ways for working abdominal and leg muscles. The spine and back are supported by the ground, helping to prevent strain and injury. The poses are typically at the beginners level and the practice reaps similar benefits to doing the poses standing."
+            {
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             }
         ] 
     },
@@ -209,6 +233,10 @@
             {
                 "catName": "Seated Yoga Poses",
                 "catDescription": "Seated positions calm the mind and encourage concentration. These are the best postures for practicing breathing techniques, meditation and stillness. When combined with twists or stretches, these poses release muscular knots, improving the flow of energy in the body."
+            },
+            {
+                "catName": "Forward Bend Yoga Poses",
+                "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
             }
         ] 
     },
@@ -242,7 +270,7 @@
     },
     {
         "id": 17,
-        "englishName": "Cow",
+        "englishName": "Cow Pose",
         "sanskritName": "Bitilasana",
         "image": "https://www.yogapedia.com/images/uploads/istock-667293822.jpg?height=580&width=940&mode=crop",
         "difficulty": "Easy",
@@ -265,6 +293,14 @@
             {
                 "catName": "Standing Yoga Poses",
                 "catDescription": "Standing poses build strength and stability. The awareness is on physical and mental balance. To stand erect, the feet must be firmly planted on the ground, with the spine stretching upward and the head lifted. These foundation poses provide entry into standing on one leg."
+            },
+            {
+                "catName": "Balancing Yoga Poses",
+                "catDescription": "The grounding of the feet, distribution of the body weight, learning to breathe soft and deep are all important aspects of building a strong foundation for a typical balance pose. These strengthen the stabilizer muscles thus helps your body to avoid falling and knocking things over. These can also help a lot in removing stress and anxiety."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -329,6 +365,14 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -345,8 +389,8 @@
                 "catDescription": "Standing poses build strength and stability. The awareness is on physical and mental balance. To stand erect, the feet must be firmly planted on the ground, with the spine stretching upward and the head lifted. These foundation poses provide entry into standing on one leg."
             },
             {
-                "catName": "Forward Bend Yoga Poses",
-                "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             }
         ] 
     },
@@ -361,6 +405,10 @@
             {
                 "catName": "Standing Yoga Poses",
                 "catDescription": "Standing poses build strength and stability. The awareness is on physical and mental balance. To stand erect, the feet must be firmly planted on the ground, with the spine stretching upward and the head lifted. These foundation poses provide entry into standing on one leg."
+            },
+            {
+                "catName": "Balancing Yoga Poses",
+                "catDescription": "The grounding of the feet, distribution of the body weight, learning to breathe soft and deep are all important aspects of building a strong foundation for a typical balance pose. These strengthen the stabilizer muscles thus helps your body to avoid falling and knocking things over. These can also help a lot in removing stress and anxiety."
             }
         ] 
     },
@@ -411,6 +459,14 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -443,6 +499,14 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
+            },
+            {
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             }
         ] 
     },
@@ -479,10 +543,6 @@
             {
                 "catName": "Seated Yoga Poses",
                 "catDescription": "Seated positions calm the mind and encourage concentration. These are the best postures for practicing breathing techniques, meditation and stillness. When combined with twists or stretches, these poses release muscular knots, improving the flow of energy in the body."
-            },
-            {
-                "catName": "Backbend Yoga Poses",
-                "catDescription": "Our spines are an incredible combination of strength and flexibility. Strong bones and large muscles give us structure and protect sensitive nerves, while flexible ligaments and tendons allow the spine to move in all different planes. With regular backbends we can help to protect this wonderful balance by increasing mobility while strengthening the supporting muscles around the skeleton."
             }
         ] 
     },
@@ -498,7 +558,7 @@
                 "catName": "Seated Yoga Poses",
                 "catDescription": "Seated positions calm the mind and encourage concentration. These are the best postures for practicing breathing techniques, meditation and stillness. When combined with twists or stretches, these poses release muscular knots, improving the flow of energy in the body."
             },
-                  {
+            {
                 "catName": "Backbend Yoga Poses",
                 "catDescription": "Our spines are an incredible combination of strength and flexibility. Strong bones and large muscles give us structure and protect sensitive nerves, while flexible ligaments and tendons allow the spine to move in all different planes. With regular backbends we can help to protect this wonderful balance by increasing mobility while strengthening the supporting muscles around the skeleton."
             }
@@ -515,6 +575,14 @@
             {
                 "catName": "Reclining Yoga Poses",
                 "catDescription": "Reclining poses provide safe ways for working abdominal and leg muscles. The spine and back are supported by the ground, helping to prevent strain and injury. The poses are typically at the beginners level and the practice reaps similar benefits to doing the poses standing."
+            },
+            {
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
+            },
+            {
+                "catName": "Forward Bend Yoga Poses",
+                "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
             }
         ] 
     },
@@ -531,8 +599,8 @@
                 "catDescription": "Standing poses build strength and stability. The awareness is on physical and mental balance. To stand erect, the feet must be firmly planted on the ground, with the spine stretching upward and the head lifted. These foundation poses provide entry into standing on one leg."
             },
             {
-                "catName": "Balancing Yoga Poses",
-                "catDescription": "The grounding of the feet, distribution of the body weight, learning to breathe soft and deep are all important aspects of building a strong foundation for a typical balance pose. These strengthen the stabilizer muscles thus helps your body to avoid falling and knocking things over. These can also help a lot in removing stress and anxiety."
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             },
             {
                 "catName": "Forward Bend Yoga Poses",
@@ -570,7 +638,7 @@
                 "catName": "Seated Yoga Poses",
                 "catDescription": "Seated positions calm the mind and encourage concentration. These are the best postures for practicing breathing techniques, meditation and stillness. When combined with twists or stretches, these poses release muscular knots, improving the flow of energy in the body."
             },
-                        {
+            {
                 "catName": "Forward Bend Yoga Poses",
                 "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
             }
@@ -617,8 +685,12 @@
         "description": "Shoulder stand pose is an inversion that starts by lying backside-down on the floor. Bend the knees and place the feet on the floor as close to the buttocks as possible. On an exhale with a strong core, press the arms and upper body into the ground and lift the legs up overhead, moving the hips and legs off the floor. Bring the bent knees towards the head, and then lift the buttocks and hips up to bring the hips and torso perpendicular to the floor. To support the body, place the hands on the lower back with bent elbows. Once balance has been reached, hands can be removed from the back and should remain straight against the body, grounded on the floor with palms facing down. When you feel balanced and secure in the pose, inhale and lift the feet towards the ceiling, bringing the legs in line with the rest of the body and perpendicular to the floor. With your gaze towards your feet or chest, press the shoulder blades down into the ground and, if you are able, move the heart closer towards the chin and face. To exit the pose, exhale and bend the knees back towards the torso and face; and, keeping them bent, roll the spine onto the floor gently and gradually, one vertebrae at a time.",
         "categories": [
             {
-                "catName": "Arm Balance Poses",
-                "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -633,6 +705,10 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -689,6 +765,10 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -781,8 +861,8 @@
                 "catDescription": "The grounding of the feet, distribution of the body weight, learning to breathe soft and deep are all important aspects of building a strong foundation for a typical balance pose. These strengthen the stabilizer muscles thus helps your body to avoid falling and knocking things over. These can also help a lot in removing stress and anxiety."
             },
             {
-                "catName": "Forward Bending Yoga Poses",
-                "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -795,12 +875,12 @@
         "description": "Wheel pose is a relatively challenging back-bending yoga posture. The front of the body is pressed upwards and the spine is arched backwards with the hands and the feet on the ground. This posture can be entered from a supine position or, for more advanced practitioners, by “dropping back” from standing. Entering the pose fully requires strength in the arms, legs and back as well as flexibility in the shoulders, spine and quads.",
         "categories": [
             {
-                "catName": "Standing Yoga Poses",
-                "catDescription": "Standing poses build strength and stability. The awareness is on physical and mental balance. To stand erect, the feet must be firmly planted on the ground, with the spine stretching upward and the head lifted. These foundation poses provide entry into standing on one leg."
-            },
-            {
                 "catName": "Backbend Yoga Poses",
                 "catDescription": "Our spines are an incredible combination of strength and flexibility. Strong bones and large muscles give us structure and protect sensitive nerves, while flexible ligaments and tendons allow the spine to move in all different planes. With regular backbends we can help to protect this wonderful balance by increasing mobility while strengthening the supporting muscles around the skeleton."
+            },
+            {
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             }
         ] 
     },
@@ -819,6 +899,10 @@
             {
                 "catName": "Balancing Yoga Poses",
                 "catDescription": "The grounding of the feet, distribution of the body weight, learning to breathe soft and deep are all important aspects of building a strong foundation for a typical balance pose. These strengthen the stabilizer muscles thus helps your body to avoid falling and knocking things over. These can also help a lot in removing stress and anxiety."
+            },
+            {
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             }
         ] 
     },
@@ -831,8 +915,12 @@
         "description": "The headstand is an inversion that exhibits strength, control and beauty in overcoming the fear of falling through physical and mental balance. This pose is performed by resting the head and forearms in a triangular formation on the mat. Once they have formed a strong base, the legs move in toward the torso so the weight begins to shift onto that base. The legs are then lifted, supported by a strong core. The torso should be perpendicular to the mat so that the body is in a straight line from the legs to the head.",
         "categories": [
             {
-                "catName": "Arm Balance Poses",
-                "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -879,6 +967,10 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -953,6 +1045,10 @@
             {
                 "catName": "Seated Yoga Poses",
                 "catDescription": "Seated positions calm the mind and encourage concentration. These are the best postures for practicing breathing techniques, meditation and stillness. When combined with twists or stretches, these poses release muscular knots, improving the flow of energy in the body."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -985,6 +1081,10 @@
             {
                 "catName": "Seated Yoga Poses",
                 "catDescription": "Seated positions calm the mind and encourage concentration. These are the best postures for practicing breathing techniques, meditation and stillness. When combined with twists or stretches, these poses release muscular knots, improving the flow of energy in the body."
+            },
+            {
+                "catName": "Forward Bend Yoga Poses",
+                "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
             }
         ] 
     },
@@ -1039,6 +1139,10 @@
             {
                 "catName": "Twist Yoga Poses",
                 "catDescription": "Twists rotate the spine and stretch the muscles of the back. This helps to restore and retain the spine’s natural range of motion. If we don’t employ our natural range of motion we run the risk of our joints hardening and fusing. The surrounding supportive soft tissue can also become short and dysfunctional. By extending the muscles to their full length regularly with twists once or twice a day we can help to prevent this."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -1075,6 +1179,10 @@
             {
                 "catName": "Backbend Yoga Poses",
                 "catDescription": "Our spines are an incredible combination of strength and flexibility. Strong bones and large muscles give us structure and protect sensitive nerves, while flexible ligaments and tendons allow the spine to move in all different planes. With regular backbends we can help to protect this wonderful balance by increasing mobility while strengthening the supporting muscles around the skeleton."
+            },
+            {
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             }
         ] 
     },
@@ -1153,6 +1261,10 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -1164,9 +1276,13 @@
         "difficulty": "Very Hard",
         "description": "Raised Lotus pose is an advanced arm balancing yoga posture that requires flexibility in the hips and core, as well as upper body strength. To enter this pose, the yogi begins in lotus pose (padmasana). The hands are grounded beside the hips, and the body is lifted off the floor using the strength of the arms and the abdominal muscles. Once the body is suspended, it can swing gently forward and backward between the arms like a scale.",
         "categories": [
-             {
+            {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -1179,8 +1295,8 @@
         "description": "Hero pose is a basic seated yoga pose that aids in calming and focusing the mind for meditation. To enter the pose, kneel down on the floor with the feet spaced out enough to sit between them. Palms are placed on the thighs. To exit the pose, the palms are placed on the floor and the pelvis is then lifted enough to bring the legs back to the front.",
         "categories": [
             {
-                "catName": "Arm Balance Poses",
-                "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+                "catName": "Seated Yoga Poses",
+                "catDescription": "Seated positions calm the mind and encourage concentration. These are the best postures for practicing breathing techniques, meditation and stillness. When combined with twists or stretches, these poses release muscular knots, improving the flow of energy in the body."
             }
         ] 
     },
@@ -1193,8 +1309,8 @@
         "description": "Archer pose is a seated yoga posture that requires a fair amount of flexibility. Archer pose resembles an archer aiming at a target, which is the inspiration for its name. To perform this pose, the practitioner assumes paschimottanasana (seated forward bend). One foot is brought toward the body and lifted high so it's beside the ear. The elbow lifts up so that the arm points down toward the toe. This is then repeated on the opposite side.",
         "categories": [
             {
-                "catName": "Arm Balance Poses",
-                "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+                "catName": "Seated Yoga Poses",
+                "catDescription": "Seated positions calm the mind and encourage concentration. These are the best postures for practicing breathing techniques, meditation and stillness. When combined with twists or stretches, these poses release muscular knots, improving the flow of energy in the body."
             }
         ] 
     },
@@ -1209,6 +1325,10 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -1227,6 +1347,10 @@
             {
                 "catName": "Forward Bend Yoga Poses",
                 "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
+            },
+            {
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             }
         ] 
     },
@@ -1241,6 +1365,10 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -1253,8 +1381,8 @@
         "description": "Extended puppy pose is a similar asana to the familiar and restful child’s pose (balasana), but provides a greater stretch to the spine. It gets its name from the resemblance to a stretching puppy or dog. From table pose, the hands walk forward while the glutes stretch back about halfway, where they are kept in line above the knees. The chest is released toward the ground with the forehead eventually resting on the ground or yoga block.",
         "categories": [
             {
-                "catName": "Forward Bend Yoga Poses",
-                "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             }
         ] 
     },
@@ -1285,8 +1413,8 @@
                 "catDescription": "The grounding of the feet, distribution of the body weight, learning to breathe soft and deep are all important aspects of building a strong foundation for a typical balance pose. These strengthen the stabilizer muscles thus helps your body to avoid falling and knocking things over. These can also help a lot in removing stress and anxiety."
             },
             {
-                "catName": "Standing Yoga Poses",
-                "catDescription": "Standing poses build strength and stability. The awareness is on physical and mental balance. To stand erect, the feet must be firmly planted on the ground, with the spine stretching upward and the head lifted. These foundation poses provide entry into standing on one leg."
+                "catName": "Inversion Yoga Poses",
+                "catDescription": "Any pose in which your heart is higher from the ground than your head is considered an inversion asana. Yoga inversion is believed to release tension, increase circulation and energy levels, and strengthen muscles. It’s also thought to promote emotional growth, calm the mind and spirit, guide energy toward the heart, and help you become more connected with the earth."
             },
             {
                 "catName": "Forward Bend Yoga Poses",
@@ -1305,6 +1433,10 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -1333,6 +1465,14 @@
             {
                 "catName": "Arm Balance Poses",
                 "catDescription": "Arm balance asanas in yoga can be challenging, but also a very rewarding part of any yoga practice. They are beneficial as strength builders, they promote great circulation and demand ultimate concentration of the mind."
+            },
+            {
+                "catName": "Twist Yoga Poses",
+                "catDescription": "Twists rotate the spine and stretch the muscles of the back. This helps to restore and retain the spine’s natural range of motion. If we don’t employ our natural range of motion we run the risk of our joints hardening and fusing. The surrounding supportive soft tissue can also become short and dysfunctional. By extending the muscles to their full length regularly with twists once or twice a day we can help to prevent this."
+            },
+            {
+                "catName": "Core Yoga Poses",
+                "catDescription": "In yoga, core stability is key for proper alignment and balance in asana practice. Engage in your abdominal muscles with core yoga poses to help build a strong and stable core. Doing so will help prevent injury, speed rehabilitation and improve performance in all types of sports."
             }
         ] 
     },
@@ -1366,14 +1506,6 @@
         "difficulty": "Medium",
         "description": "Revolved crescent lunge is an intermediate standing twist that stimulates the abdominal organs and lengthens the spine. In this pose, the yogi begins in a low lunge position with the hands in prayer position at the heart center. The torso then twists toward the lead leg, placing the opposite upper arm on the thigh while holding prayer position. The chest twists toward the sky and the gaze is upward over the shoulder.",
         "categories": [
-             {
-                "catName": "Standing Yoga Poses",
-                "catDescription": "Standing poses build strength and stability. The awareness is on physical and mental balance. To stand erect, the feet must be firmly planted on the ground, with the spine stretching upward and the head lifted. These foundation poses provide entry into standing on one leg."
-            },
-            {
-                "catName": "Forward Bend Yoga Poses",
-                "catDescription": "Forward bends, also called forward folds, are yoga postures where you hinge forward at your hips. There are many forward folds, both standing and seated, that are commonly practiced in various forms across all styles of yoga. While backbends open the frontside of your body, forward bends open the backside and generally create length throughout. Physically, this improves posture and helps you stand taller."
-            },
             {
                 "catName": "Twist Yoga Poses",
                 "catDescription": "Twists rotate the spine and stretch the muscles of the back. This helps to restore and retain the spine’s natural range of motion. If we don’t employ our natural range of motion we run the risk of our joints hardening and fusing. The surrounding supportive soft tissue can also become short and dysfunctional. By extending the muscles to their full length regularly with twists once or twice a day we can help to prevent this."
