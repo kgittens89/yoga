@@ -43,3 +43,6 @@ Browse and learn from our comprehensive yoga library, with a warehouse of everyt
 <img width="701" alt="res req cycle diagram" src="https://user-images.githubusercontent.com/93896422/150869405-58c95940-1b95-4fb4-a246-7eee9d64c110.png">
 
 
+### Where to go next!
+- In the next part of the journey, we would ideally like to switch out all of the image links with our own images of the asanas. This way we do not have to worry about the links coming down at any point.
+- Additionally, we would like to add a a new controller where you can pull all asanas by category instead of ID.
