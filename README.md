@@ -47,22 +47,13 @@ The Flow Factory is a yoga application designed for both, new yogis & teachers. 
 ### MVP Goals
 
 - As a user, I want to be able to see a list of all available yoga poses so that I know what poses are available to me
-- As a user, I want to be able to search for poses so that I can find poses related to my search 
 - As a user, I want to be able to click on a pose and see more details so that I can learn more about that specific pose
 - As a user, I want to be able to make my own sequence, so that my flow feels more personalized
-- As a user, I want to be able to add a pose that might not currently be in the database so that I can better customize my experience
-
-
-
+- As a user, I want to be able to edit and remove poses within the sequence I create, so that I do not have to worry if I change my mind
 
 
 
 ### Stretch Goals
+- As a user, I want to be able to search for poses so that I can find poses related to my search 
 - As a user, I would like sequences suggested to me so that I can learn how to pick the next pose in the sequence 
 - As a user, I would like there to be a list of preset sequences so that I see the most common flow sequences 
-
-
-
-
-
-
