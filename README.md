@@ -15,9 +15,9 @@ Browse and learn from our comprehensive yoga library, with a warehouse of everyt
 - Node.js
 
 ## Deployed Heroku App 
-  https://still-sands-89510.herokuapp.com/flowfactory/asana
+  https://mighty-hamlet-73625.herokuapp.com/flowfactory/asana
   
-  https://still-sands-89510.herokuapp.com/flowfactory/sequence
+  https://mighty-hamlet-73625.herokuapp.com/flowfactory/sequence
 
 
 ## Installation 
