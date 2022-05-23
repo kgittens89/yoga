@@ -73,6 +73,20 @@ router.delete('/:id', async (req, res, next) => {
 });
 
 
+// GET BY CATEGORY
+
+router.get('/category/:category', async (req, res, next) => {
+	try {
+		const asanaCategory = await Asana.find({
+			'categories.0.catName': `${req.params.category}`,
+		});
+		console.log(asanaCategory)
+		res.json(asanaCategory);
+	} catch (error) {
+		next(error)
+	}
+})
+
 // EXPORT
 
 module.exports = router;
