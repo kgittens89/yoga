@@ -36,6 +36,10 @@ Browse and learn from our comprehensive yoga library, with a warehouse of everyt
 4. Install required dependencies: 
 
   ``` npm i ```
+  
+5. Run the server
+
+  ``` npm start ```
 
 
 ## Visual of your res/req cycle diagram
