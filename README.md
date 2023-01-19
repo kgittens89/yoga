@@ -40,6 +40,10 @@ Browse and learn from our comprehensive yoga library, with a warehouse of everyt
 5. Run the server
 
   ``` npm start ```
+  
+6. Navigate to page in browser
+
+  ``` localhost:3000/flowfactory ```
 
 
 ## Visual of your res/req cycle diagram
