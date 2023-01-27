@@ -14,10 +14,10 @@ Browse and learn from our comprehensive yoga library, with a warehouse of everyt
 - Express
 - Node.js
 
-## Deployed Heroku App 
-  https://mighty-hamlet-73625.herokuapp.com/flowfactory/asana
+## Deployed Railway App 
+  https://yoga-production-8fa1.up.railway.app/flowfactory/asana
   
-  https://mighty-hamlet-73625.herokuapp.com/flowfactory/sequence
+  https://yoga-production-8fa1.up.railway.app/flowfactory/sequence
 
 
 ## Installation 
