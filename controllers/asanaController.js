@@ -87,15 +87,6 @@ router.get('/category/:category', async (req, res, next) => {
 	}
 })
 
-router.get('/random/:id', async (req, res, next) => {
-	try {
-		const asana = await Asana.findOne({id: req.params.id });
-		res.json(asana);
-	} catch (error) {
-		next(error);
-	}
-});
-
 // EXPORT
 
 module.exports = router;
