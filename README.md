@@ -45,6 +45,9 @@ Browse and learn from our comprehensive yoga library, with a warehouse of everyt
 
   ``` localhost:3000/flowfactory ```
 
+4. Run server: 
+
+  ``` npm start ```
 
 ## Visual of your res/req cycle diagram
 
