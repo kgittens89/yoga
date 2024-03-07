@@ -14,10 +14,10 @@ Browse and learn from our comprehensive yoga library, with a warehouse of everyt
 - Express
 - Node.js
 
-## Deployed Railway App 
-  https://yoga-production-8fa1.up.railway.app/flowfactory/asana
+## Deployed Heroku App 
+  https://mighty-hamlet-73625.herokuapp.com/flowfactory/asana
   
-  https://yoga-production-8fa1.up.railway.app/flowfactory/sequence
+  https://mighty-hamlet-73625.herokuapp.com/flowfactory/sequence
 
 
 ## Installation 
@@ -44,10 +44,6 @@ Browse and learn from our comprehensive yoga library, with a warehouse of everyt
 6. Navigate to page in browser
 
   ``` localhost:3000/flowfactory ```
-
-4. Run server: 
-
-  ``` npm start ```
 
 ## Visual of your res/req cycle diagram
 
